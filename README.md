@@ -33,7 +33,7 @@ Remember that You will probably have to change Your settings to give Automator/R
 System Preferences > Security > Privacy > Accessibility
 ## FAQ
 
-#### Is using logout macro agains Path of Exile TOS?
+#### Is using logout macro against Path of Exile TOS?
 
 TOS allows macros that are activated by user (not automated) and are not performing more than one action per activation. "Logging out" is a single action and is not violating this rules.
 
