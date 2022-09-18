@@ -3,11 +3,11 @@
 
 Since AutoHotkey macros are not working on macOS (and I'm dedicated SSFHC player) I've decided to make one on my own.
 
-App may be used to terminate almost any process - when downloaded it's just set to terminate Path of Exile (since it starts in random ports on macOS Steam Client), but You may easly set it up for any other proces.
+App may be used to terminate almost any process - when downloaded it's just set to terminate Path of Exile (since it starts in random ports on macOS Steam Client), but You may easily set it up for any other proces.
 
 ## Installation
 
-1. Download app killer script file and oopen it using using script editor tool on Your system.
+1. Download app killer script file and open it using using script editor tool on Your system.
 
 2. In last line of script set
 ```bash
