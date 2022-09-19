@@ -23,9 +23,8 @@ setting on.
 
 4. Now there are few ways to make the macro work for You:
 
-- using Your gaming keyboard/mouse set a key to run the app when keybind is used.
+- using Your gaming keyboard/mouse software (like Logitech G HUB) set a key to run the app when keybind is used.
 - using any app with options to making keybinds like Raycast to create keybind that runs it.
-
 - set a keybind using macOS Automator tool. You need to create an Automator quick action that will run the app on set key. 
 
 Remember that You will probably have to change Your settings to give Automator/Raycast permissions needed to close Path of Exile.
@@ -40,7 +39,7 @@ TOS allows macros that are activated by user (not automated) and are not perform
 Even well-known streamers like Zizaran are using it.
 #### Do I need to provide my user password in script?
 
-It's needed because otherwise system will ask for password before terminating POE process, and You probably want it to be instant! :)
+It's needed because otherwise system will ask for a password before terminating POE process, and You probably want it to be instant! :)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/fbrv01/)
